@@ -13,15 +13,15 @@
             "id": "https://mlueckert.github.io/katrin/ueber-mich.html",
             "url": "https://mlueckert.github.io/katrin/ueber-mich.html",
             "title": "Über mich",
-            "summary": "Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist&hellip;",
-            "content_html": "<p>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da </p>",
+            "summary": " Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es&hellip;",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://mlueckert.github.io/katrin/media/posts/1/katrin_2_edit.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-xs.jpeg 300w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-sm.jpeg 480w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-md.jpeg 768w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-lg.jpeg 1024w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-xl.jpeg 1360w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-2xl.jpeg 1600w\"  alt=\"\" width=\"235\" height=\"418\"></figure></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da </td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "author": {
                 "name": "Katrin Lückert"
             },
             "tags": [
             ],
             "date_published": "2021-07-27T15:17:14+02:00",
-            "date_modified": "2021-07-27T15:17:14+02:00"
+            "date_modified": "2021-08-03T14:50:22+02:00"
         }
     ]
 }
