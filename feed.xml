@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Katrin Lückert | Coaching und Beratung</title>
-    <link href="https://mlueckert.github.io/katrin/feed.xml" rel="self" />
-    <link href="https://mlueckert.github.io/katrin" />
+    <link href="https://katrin.lueckert.ch/feed.xml" rel="self" />
+    <link href="https://katrin.lueckert.ch" />
     <updated>2021-08-03T16:29:20+02:00</updated>
     <author>
         <name>Katrin Lückert</name>
     </author>
-    <id>https://mlueckert.github.io/katrin</id>
+    <id>https://katrin.lueckert.ch</id>
 
     <entry>
         <title>Über mich</title>
         <author>
             <name>Katrin Lückert</name>
         </author>
-        <link href="https://mlueckert.github.io/katrin/ueber-mich.html"/>
-        <id>https://mlueckert.github.io/katrin/ueber-mich.html</id>
+        <link href="https://katrin.lueckert.ch/ueber-mich.html"/>
+        <id>https://katrin.lueckert.ch/ueber-mich.html</id>
 
         <updated>2021-08-03T16:29:20+02:00</updated>
             <summary>
@@ -28,7 +28,7 @@
                 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://mlueckert.github.io/katrin/media/posts/1/katrin_2_edit.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-xs.jpeg 300w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-sm.jpeg 480w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-md.jpeg 768w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-lg.jpeg 1024w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-xl.jpeg 1360w ,https://mlueckert.github.io/katrin/media/posts/1/responsive/katrin_2_edit-2xl.jpeg 1600w"  alt="" width="235" height="418"></figure></td>
+<td style="width: 50%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://katrin.lueckert.ch/media/posts/1/katrin_2_edit.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-xs.jpeg 300w ,https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-sm.jpeg 480w ,https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-md.jpeg 768w ,https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-lg.jpeg 1024w ,https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-xl.jpeg 1360w ,https://katrin.lueckert.ch/media/posts/1/responsive/katrin_2_edit-2xl.jpeg 1600w"  alt="" width="235" height="418"></figure></td>
 </tr>
 <tr>
 <td style="width: 50%;"> </td>
